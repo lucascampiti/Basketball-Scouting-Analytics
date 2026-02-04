@@ -1,6 +1,6 @@
 # 🏀 Basketball Scouting Analytics: U14/U15 Transition Analysis
 
-## 📊 [ 🚀  CLICK HERE TO SEE THE INTERACTIVE DASHBOARD ](https://public.tableau.com/views/empaquetado_tableau/ScoutingAnalytics-YouthCategories?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## 📊 [ 🚀  CLICK HERE TO SEE THE INTERACTIVE DASHBOARD ](https://public.tableau.com/app/profile/lucas.campiti/viz/ScoutingAnalytics_17701738652270/ScoutingAnalytics-YouthCategories)
   
 ## Project Overview
 End-to-end data project focused on youth basketball scouting. This system analyzes how players adapt during the transition from U14 to U15 categories, considering external factors like home/away conditions, crowd pressure, and weather.
